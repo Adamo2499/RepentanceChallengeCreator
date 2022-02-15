@@ -22,6 +22,7 @@ namespace RepentanceChallengeCreator
         {
             //Form2 form2 = new Form2();
             form2.Show();
+            form2.Focus();
         }
 
         private void modifyChallenge_Click(object sender, EventArgs e)

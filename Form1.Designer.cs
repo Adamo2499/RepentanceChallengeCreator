@@ -81,10 +81,6 @@
             // 
             this.challengesList.FormattingEnabled = true;
             this.challengesList.ItemHeight = 20;
-            this.challengesList.Items.AddRange(new object[] {
-            "Test1",
-            "Test2",
-            "Test3"});
             this.challengesList.Location = new System.Drawing.Point(37, 67);
             this.challengesList.Name = "challengesList";
             this.challengesList.Size = new System.Drawing.Size(721, 304);
